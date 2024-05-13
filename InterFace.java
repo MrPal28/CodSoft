@@ -13,6 +13,7 @@ public class InterFace {
         System.out.println("1.Play\t2.Exit");
         Menu();
     }
+ //The Menu Bar
     public static void Menu(){
        
         
