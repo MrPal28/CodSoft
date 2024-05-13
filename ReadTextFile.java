@@ -5,7 +5,7 @@ import java.io.IOException;
 public class ReadTextFile {
     public static void Rules() {
         // Specify the path to the text file
-        String filePath = "C:\\Users\\ARINDAM PAL\\OneDrive\\Desktop\\project\\Rules.txt";
+        String filePath = "Rules.txt";
 
         try {
             // Create a FileReader object
