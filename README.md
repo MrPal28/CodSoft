@@ -5,7 +5,6 @@ Welcome to the Number Guessing Game! This is a simple Java console-based game wh
 ## Features
 
 - Guess the randomly generated number within a limited number of attempts.
-- Record player information such as name, age, total matches played, and total score.
 - Allow players to play multiple rounds.
 - Display player's score and total matches played.
 
@@ -29,7 +28,7 @@ Welcome to the Number Guessing Game! This is a simple Java console-based game wh
 2. Compile and run the Java program using the command line or an IDE.
 3. Follow the on-screen instructions to play the game.
 4. Check the "player_data.txt" file to view recorded player information.
-
+5. To play The Game Please refer InterFace.java
 ## Example
 
 ```bash
