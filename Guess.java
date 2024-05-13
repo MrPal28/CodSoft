@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//The Number guessing Main Logic you can Find here
 public class Guess{
      public void GuessTheNumber(){
        Scanner input= new Scanner(System.in);
