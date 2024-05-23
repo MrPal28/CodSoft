@@ -5,7 +5,7 @@ Welcome to the Codsoft repository! This repository contains three different Java
 ## Branches
 
 ### 1. Number Guessing Game
-**Branch Name:** `number-guessing-game`
+**Branch Name:** `Number-Guessing-Game`
 
 The Number Guessing Game is an interactive game where players try to guess a randomly generated number. The game includes features such as:
 - Playing multiple times
@@ -13,6 +13,6 @@ The Number Guessing Game is an interactive game where players try to guess a ran
 
 **How to access:**
 1. Clone the repository.
-2. Checkout to the `number-guessing-game` branch.
+2. Checkout to the `Number-Guessing-Game` branch.
    ```sh
-   git checkout number-guessing-game
+   git checkout Number-Guessing-Game
