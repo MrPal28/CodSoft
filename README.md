@@ -1,22 +1,22 @@
-# Number Guessing Game 🎮
+# Student Grade Calculator 📚
 
-Welcome to the Number Guessing Game! This project was developed during my internship at Codsoft Company. The game is built in Java and is designed to be both fun and challenging.
+Welcome to the Student Grade Calculator! This project was developed during my internship at Codsoft Company. The calculator is built in Java and aims to provide an easy and efficient way to calculate student grades.
 
 ## Project Highlights
 
-- 🔢 **Multiple Attempts Feature:** Players can enjoy the game multiple times in one session, enhancing the replay value and fun.
-- 📊 **Dynamic Scoring System:** The game includes a dynamic scoring system that updates based on the player's performance, making each game unique and competitive.
+- 📈 **Multiple Calculations Feature:** Calculate grades for multiple students in one session, making it perfect for teachers and educators.
+- 📝 **Detailed Grade Summaries:** Provides a comprehensive summary of each student's performance, including individual scores and overall grades.
 
 ## Description
 
-Challenge your intuition with our exciting Number Guessing Game! Test your guessing skills, improve with each round, and aim for the highest score. The game is simple yet engaging, perfect for a quick and fun mental exercise.
+Simplify the process of grading with our Student Grade Calculator! Whether you're a teacher looking to streamline your workflow or a student wanting to check your scores, this tool is perfect for you.
 
 ### Features:
 
-- **Multiple Attempts:** Play multiple times in one session for endless fun.
-- **Dynamic Scoring:** Earn points based on your performance, making each game unique.
+- **Multiple Calculations:** Easily calculate grades for multiple students in one session.
+- **Detailed Summaries:** Get a detailed summary of each student's performance.
 
-Dive in and see how quickly you can guess the right number!
+Start using the Student Grade Calculator to make grading easier and more efficient!
 
 ## Future Projects
 
@@ -36,10 +36,10 @@ To get a local copy up and running, follow these simple steps:
     cd CodSoft
     ```
 
-3. **Compile and run the game**
+3. **Compile and run the calculator**
     ```sh
-    javac interface.java
-    java interface
+    javac GradeCalculator.java
+    java GradeCalculator
     ```
 
 ## Contact
