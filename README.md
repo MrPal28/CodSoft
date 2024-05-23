@@ -1,51 +1,18 @@
-# Number Guessing Game 🎮
+# Codsoft Repository
 
-Welcome to the Number Guessing Game! This project was developed during my internship at Codsoft Company. The game is built in Java and is designed to be both fun and challenging.
+Welcome to the Codsoft repository! This repository contains three different Java projects: a Number Guessing Game, a Student Grade Calculator, and an ATM Interface. Each project is located in its respective branch. Below, you will find instructions on how to access the Java files and a brief description of each branch.
 
-## Project Highlights
+## Branches
 
-- 🔢 **Multiple Attempts Feature:** Players can enjoy the game multiple times in one session, enhancing the replay value and fun.
-- 📊 **Dynamic Scoring System:** The game includes a dynamic scoring system that updates based on the player's performance, making each game unique and competitive.
+### 1. Number Guessing Game
+**Branch Name:** `number-guessing-game`
 
-## Description
+The Number Guessing Game is an interactive game where players try to guess a randomly generated number. The game includes features such as:
+- Playing multiple times
+- A scoring system to track your performance
 
-Challenge your intuition with our exciting Number Guessing Game! Test your guessing skills, improve with each round, and aim for the highest score. The game is simple yet engaging, perfect for a quick and fun mental exercise.
-
-### Features:
-
-- **Multiple Attempts:** Play multiple times in one session for endless fun.
-- **Dynamic Scoring:** Earn points based on your performance, making each game unique.
-
-Dive in and see how quickly you can guess the right number!
-
-## Future Projects
-
-Stay tuned! More exciting projects will be uploaded to this repository soon.
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. **Clone the repo**
-    ```sh
-    git clone https://github.com/yourusername/CodSoft.git
-    ```
-
-2. **Navigate to the project directory**
-    ```sh
-    cd CodSoft
-    ```
-
-3. **Compile and run the game**
-    ```sh
-    javac interface.java
-    java interface
-    ```
-
-## Contact
-
-For any questions or feedback, feel free to reach out to me at [arindampal669@gmail.com](mailto:arindampal669@gmail.com).
-
----
-
-Thank you for checking out my project! 😊
+**How to access:**
+1. Clone the repository.
+2. Checkout to the `number-guessing-game` branch.
+   ```sh
+   git checkout number-guessing-game
