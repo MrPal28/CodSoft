@@ -18,9 +18,7 @@ Challenge your intuition with our exciting Number Guessing Game! Test your guess
 
 Dive in and see how quickly you can guess the right number!
 
-## Future Projects
 
-Stay tuned! More exciting projects will be uploaded to this repository soon.
 
 ## Getting Started
 
