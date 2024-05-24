@@ -18,9 +18,7 @@ Simplify the process of grading with our Student Grade Calculator! Whether you'r
 
 Start using the Student Grade Calculator to make grading easier and more efficient!
 
-## Future Projects
 
-Stay tuned! More exciting projects will be uploaded to this repository soon.
 
 ## Getting Started
 
