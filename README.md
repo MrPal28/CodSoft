@@ -5,11 +5,11 @@
 
 - Intern At CodSoft [Number-Guessing-Game](https://github.com/MrPal28/CodSoft/tree/Number-Guessing-Game)
 
-- 🌱 I’m currently learning **C language, Java etc.**
-
-- Intern At CodSoft [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)
+- Intern At CodSoft [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)-
 
 - Intern At CodSoft [ATM-INTERFACE](https://github.com/MrPal28/CodSoft/tree/ATM_INTERFACE)
+
+ 🌱 I’m currently learning **Java , Swing , Spring , JDBC etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrPal28](https://github.com/MrPal28)
 
