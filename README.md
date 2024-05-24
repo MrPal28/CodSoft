@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repo**
     ```sh
-    git clone https://github.com/yourusername/CodSoft.git
+    git clone https://github.com/MrPal28/CodSoft.git
     ```
 
 2. **Navigate to the project directory**
@@ -36,8 +36,8 @@ To get a local copy up and running, follow these simple steps:
 
 3. **Compile and run the game**
     ```sh
-    javac interface.java
-    java interface
+    javac InterFace.java
+    java InterFace
     ```
 
 ## Contact
