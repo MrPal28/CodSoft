@@ -5,9 +5,9 @@
 
 - Intern At CodSoft [Number-Guessing-Game](https://github.com/MrPal28/CodSoft/tree/Number-Guessing-Game)
 
-- Intern At CodSoft [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)-
+- Intern At CodSoft [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)
 
-- Intern At CodSoft [ATM-INTERFACE](https://github.com/MrPal28/CodSoft/tree/ATM_INTERFACE)
+- Intern At CodSoft [ATM-INTERFACE](https://github.com/MrPal28/CodSoft/tree/ATM_INTERFACE)(In Progress)
 
  🌱 I’m currently learning **Java , Swing , Spring , JDBC etc.**
 
