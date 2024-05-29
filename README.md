@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpal28&label=Profile%20views&color=0e75b6&style=flat" alt="mrpal28" /> </p>
 
-- Intern At CodSoft [Number-Guessing-Game](https://github.com/MrPal28/CodSoft/tree/Number-Guessing-Game)
+- Project At CodSoft TASK-1 [Number-Guessing-Game](https://github.com/MrPal28/CodSoft/tree/Number-Guessing-Game)
 
-- Intern At CodSoft [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)
+- Project At CodSoft TASK-2 [Grade-Calculator](https://github.com/MrPal28/CodSoft/tree/Grade-Calculator)
 
-- Intern At CodSoft [ATM-INTERFACE](https://github.com/MrPal28/CodSoft/tree/ATM_INTERFACE)(In Progress)
+- Project At CodSoft TASK-3 [ATM-INTERFACE](https://github.com/MrPal28/CodSoft/tree/ATM_INTERFACE).
 
  🌱 I’m currently learning **Java , Swing , Spring , JDBC etc.**
 
