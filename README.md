@@ -37,8 +37,8 @@ To get a local copy up and running, follow these simple steps:
 
 3. **Compile and run the interface**
     ```sh
-    javac ATMInterface.java
-    java ATMInterface
+    javac ATM_Machine.java
+    java ATM_Machine
     ```
 
 ## Contact
